@@ -1,0 +1,68 @@
+.background-color-one{
+    background-color: #547792;
+}
+.background-color-two{
+    background-color: #ECEFCA;
+}
+
+.max-photos-dim{
+    max-width: 700px;
+}
+
+.delius-regular {
+  color: #ECEFCA;
+  font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tektur-font {
+    color: #ECEFCA;
+  font-family: "Tektur", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.img-style{
+    width: 200px;
+    border: 4px #4F1C51 solid;
+    
+}
+
+.background-color-three{
+    background-color: #ECEFCA;
+}
+
+
+.noto-sans-font {
+ 
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.other-img-style{
+    border-radius: 30%;
+}
+
+.font-color-one{
+ color: #547792;
+}
+.font-color-two{
+    color: #261FB3;
+}
+
+.sep_color{
+    color: #94B4C1;
+}
+
+.font-color-three{
+    
+    color: white;
+}
